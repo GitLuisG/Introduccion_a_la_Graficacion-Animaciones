@@ -1,4 +1,8 @@
 ## INTRODUCCIÓN A LA GRAFICACIÓN POR COMPUTADORA
+# Integrante
+* Luis Gerardo Perales Torres
+* Ejemplo 
+!["Ejemplo de animacion"](Img.png)
 
 # ANIMACIONES
 
